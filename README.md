@@ -1,7 +1,7 @@
-- 👋 Hi, I’m PannawatChauychoo.
+- 👋 Hi, I’m Pannawat Chauychoo.
 - 👀 I’m interested in data science and busines analytics.
-- 🧑‍💼 I'm studying at USC Marshall with an emphasis in business analytics.
-- 🌱 In my free time, I’m learning how to do business analyst with R online.
+- 🧑‍💼 I'm studying at USC Marshall - Business Admin undergraduate and Applied Data Science master.
+- 🌱 In my free time, I love to play golf.
 - 📫 Feel free to reach me on LinkedIn @www.linkedin.com/in/pannawat-chauychoo-2002
 
 <!---
