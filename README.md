@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Pan</h1>
+<h1 align="center"><b>Hi , I'm Pan. </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">I love making complicated insights obvious.</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=USC Trained Data Scientist,;Honor Business Graduate,;Love+to+learn+new+stuffs..<3">
-  </a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=USC Trained Data Scientist,;Honor Business Graduate,; Proven experience Love+to+learn+new+stuffs..<3">
 </p>
 
 💬 Ask me about:
